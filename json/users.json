@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6299efbd79b22435397e0f61"
+  },
+  "name": "elia",
+  "email": "elia@gmail.com",
+  "password": "$2b$10$JFFSy1lzNomasRsYsembSexabREjhTq2p.dYdaFfLp17qTFNmllBu",
+  "role": "admin",
+  "create_date": {
+    "$date": {
+      "$numberLong": "1654255507147"
+    }
+  },
+  "address": "pop12",
+  "phone": "0506234567",
+  "favs_ar": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6299f01f79b22435397e0f63"
+  },
+  "name": "avi",
+  "email": "avi@gmail.com",
+  "password": "$2b$10$d9vXruIGKhByb87lK0el0OAqgFt4rW0aHajpWwa0wlcb9forOCGFe",
+  "role": "user",
+  "create_date": {
+    "$date": {
+      "$numberLong": "1654255507147"
+    }
+  },
+  "address": "pop10",
+  "phone": "0505234567",
+  "favs_ar": [],
+  "__v": 0
+}]

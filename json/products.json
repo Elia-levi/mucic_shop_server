@@ -1,0 +1,242 @@
+[
+    {
+        "_id": {
+            "$oid": "629a1404fc4be32cbe6b6a5d"
+        },
+        "name": "Samson R10S Dynamic Microphone",
+        "info": "A dynamic microphone with a built-in cable that is connected to a microphone and ready to connect at any given moment.\nHas  an internal shockmount mechanism that minimizes operating noise,  with a capsule in a polar cardioid format and a frequency range of 80Hz-12kHz. \nThe microphone is ideal for vocal-speaking, creating multimedia content, portable recording and karaoke singing.",
+        "price": 99,
+        "img_url": "https://images.pexels.com/photos/164829/pexels-photo-164829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "cat_short_id": "262701",
+        "date_created": "2022-06-03T11:32:21.296Z",
+        "qty": 29,
+        "user_id": "6299efbd79b22435397e0f61",
+        "short_id": "796002",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "629a1199fc4be32cbe6b6a2f"
+        },
+        "name": "Flute Yamaha YFL 472",
+        "info": "High quality professional side flute, made entirely of silver (body and head) which gives the flute an exceptional sound in quality.\nWith open holes, mechanical water and an option for corks. Suitable for advanced players. Highly recommended by music teachers in Israel and around the world. Comes with a carrying case and a cleaning kit.",
+        "price": 6220,
+        "img_url": "https://images.pexels.com/photos/7238908/pexels-photo-7238908.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "cat_short_id": "86682",
+        "date_created": "2022-06-03T11:32:21.296Z",
+        "qty": 9,
+        "user_id": "6299efbd79b22435397e0f61",
+        "short_id": "491579",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "629a1139fc4be32cbe6b6a1f"
+        },
+        "name": "Flute Wisemann DFL-310 Flute",
+        "info": "Wisemann manufactures high-quality and durable wind instruments combined with the latest production technologies to provide melodic musical instruments with a sweet sound, beautiful design and a super affordable price.\nThe result is happy musicians and satisfied teachers from all over the world.",
+        "price": 1500,
+        "img_url": "https://images.pexels.com/photos/7780313/pexels-photo-7780313.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "cat_short_id": "86682",
+        "date_created": "2022-06-03T11:32:21.296Z",
+        "qty": 14,
+        "user_id": "6299efbd79b22435397e0f61",
+        "short_id": "93837",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "629a1022fc4be32cbe6b69ed"
+        },
+        "name": "Clarinet Jupiter JCL-700NA",
+        "info": "A quality clarinet from a reputable manufacturer\nAn excellent tool for the beginner and advanced student. Has an excellent tone, precise intonation and is resistant to cracks. The clarinet comes in a matte finish with an adjustable thumb pad. Jupiter has a global network of research and development with music teachers, helping to design the clarinets to meet students' passion for music. The convenient design and reliable quality allow students to develop musical skills easily.",
+        "price": 2555,
+        "img_url": "https://images.pexels.com/photos/5482187/pexels-photo-5482187.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "cat_short_id": "469434",
+        "date_created": "2022-06-03T11:32:21.296Z",
+        "qty": 4,
+        "user_id": "6299efbd79b22435397e0f61",
+        "short_id": "889363",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "629a08befc4be32cbe6b696a"
+        },
+        "name": "Organ Yamaha PSS-A50",
+        "info": "Compact keyboard with 37 touch-sensitive mini-keys (Velocity).\n138 types of arpeggioator for breaking chords, 42 sounds and recording option.\nTo upgrade your playing, you will also find a \"Motion\" effect for creating movement and interest in sound.\nThere is a built-in speaker and headphone port and the keyboard can work on batteries or with the USB connection (not included!) So you can take it with you and play anywhere!",
+        "price": 650,
+        "img_url": "https://images.pexels.com/photos/164743/pexels-photo-164743.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "cat_short_id": "800542",
+        "date_created": "2022-06-03T11:32:21.296Z",
+        "qty": 5,
+        "user_id": "6299efbd79b22435397e0f61",
+        "short_id": "53264",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "629a07a7fc4be32cbe6b6950"
+        },
+        "name": "Grand piano Steinway & Sons Model",
+        "info": "Quality that breaks Steinway\n's innovationtakes another step with the prestigious Spirio  series and opens for you pianists and music lovers a whole world of possibilities: play, record, make your show unforgettable and enjoy music in a truly groundbreaking way!",
+        "price": 80000,
+        "img_url": "https://images.unsplash.com/photo-1566252156292-69dbb5288c8e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=778&q=80",
+        "cat_short_id": "981074",
+        "date_created": "2022-06-03T11:32:21.296Z",
+        "qty": 3,
+        "user_id": "6299efbd79b22435397e0f61",
+        "short_id": "559699",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "629a057afc4be32cbe6b691e"
+        },
+        "name": "Electronic drum set Yamaha DTX6K3-X",
+        "info": "The DTX6K3-X is the third and widest model in the new series of electronic drums from Yamaha called the DTX6 .\nYamaha built this series taking into account the modern drummer and rebuilt everything. A new and powerful module, new and high-quality samples, easy recording and file sharing options and the most significant change is the addition of the Kit Modifier that allows you to reshape the sound and discover a new world of music.",
+        "price": 9000,
+        "img_url": "https://images.unsplash.com/photo-1457523054379-8d03ab9fc2aa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "cat_short_id": "649188",
+        "date_created": "2022-06-03T11:32:21.296Z",
+        "qty": 8,
+        "user_id": "6299efbd79b22435397e0f61",
+        "short_id": "359919",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "629a038afc4be32cbe6b690a"
+        },
+        "name": "Pad system for drums Alesis SamplePad Pro",
+        "info": "Whether you're adding it to your electronic drum set, upgrading your acoustic kit or looking for a compact electronic kit that can be taken anywhere - you're going\nto love the SamplePad Pro. \n",
+        "price": 1800,
+        "img_url": "https://images.pexels.com/photos/4090903/pexels-photo-4090903.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "cat_short_id": "649188",
+        "date_created": "2022-06-03T11:32:21.296Z",
+        "qty": 2,
+        "user_id": "6299efbd79b22435397e0f61",
+        "short_id": "363182",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "629a01b1fc4be32cbe6b68d5"
+        },
+        "name": "Drum snare Tama Metalworks 10x5.5",
+        "info": "old sound, attractive appearance and surprising price\nSteel aprons produce a strong sound and are sensitive, responsive and give beautiful expression to small nuances - and when you need to cut through the mix? Perfect.\nBright and clear sound with an assertive, cutting and full of sanity attack.\nThe snare comes in an impressive and stylish black matte finish.\nHigh-quality rims (Triple Flanged) provide a classic and open tone with a serious punch in Rimshots - resonance at its best.",
+        "price": 1100,
+        "img_url": "https://images.pexels.com/photos/9463074/pexels-photo-9463074.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "cat_short_id": "531681",
+        "date_created": "2022-06-03T11:32:21.296Z",
+        "qty": 9,
+        "user_id": "6299efbd79b22435397e0f61",
+        "short_id": "188362",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "629a014afc4be32cbe6b68cc"
+        },
+        "name": "Drum set Tama Superstar Classic 5",
+        "info": "Drum set\nTama Superstar Classic 5 Piece - Gloss Garnet Lacebark Pine\nFor over 40 years the name Superstar from Tama represents stunning design, sharp sound and one of the highest build quality in the world of drums.\nThe new models continue the tradition, constantly raising the bar and doing so (impressively) at a very competitive price!",
+        "price": 6215,
+        "img_url": "https://images.pexels.com/photos/8132522/pexels-photo-8132522.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "cat_short_id": "531681",
+        "date_created": "2022-06-03T11:32:21.296Z",
+        "qty": 3,
+        "user_id": "6299efbd79b22435397e0f61",
+        "short_id": "647603",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "629a0003fc4be32cbe6b689f"
+        },
+        "name": "Acoustic guitar Yamaha JR2 Natural",
+        "info": "Elegance, style and sound that only a real Yamaha guitar can produce at such a price…\nModel JR2 Guitar ¾, a mini-folk model built inspired by the popular FG series in a traditional construction style with a compact body and authentic acoustic sound.\nA wonderful combination of Spruce trees at the top, Mahogany on the sides and back and a rosewood fingerboard.\nThe guitar includes a Gig Bag.",
+        "price": 1200,
+        "img_url": "https://images.pexels.com/photos/7120377/pexels-photo-7120377.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "cat_short_id": "247454",
+        "date_created": "2022-06-03T11:32:21.296Z",
+        "qty": 5,
+        "user_id": "6299efbd79b22435397e0f61",
+        "short_id": "866387",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "6299ff1cfc4be32cbe6b6870"
+        },
+        "name": "Acoustic guitar Fender CD-60 DREAD V3",
+        "info": "If you are a musician at the beginning of your journey, the best choice you can make is to choose a guitar that sounds great and that inspires you and you want to continue",
+        "price": 900,
+        "img_url": "https://images.pexels.com/photos/3660866/pexels-photo-3660866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "cat_short_id": "247454",
+        "date_created": "2022-06-03T11:32:21.296Z",
+        "qty": 3,
+        "user_id": "6299efbd79b22435397e0f61",
+        "short_id": "196498",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "6299fcd7fc4be32cbe6b683d"
+        },
+        "name": "Classic guitar Valencia VC564 Natural",
+        "info": "A beautiful classical guitar at a price that suits everyone!",
+        "price": 650,
+        "img_url": "https://images.pexels.com/photos/1995803/pexels-photo-1995803.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "cat_short_id": "161116",
+        "date_created": "2022-06-03T11:32:21.296Z",
+        "qty": 6,
+        "user_id": "6299efbd79b22435397e0f61",
+        "short_id": "176170",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "6299fc4bfc4be32cbe6b6834"
+        },
+        "name": "Classical guitar size 1/2 Valencia VC102",
+        "info": "Valencia was founded in Australia about 50 years ago and today produces amazing guitars that are characterized by extremely high quality in relation to the price.",
+        "price": 350,
+        "img_url": "https://images.pexels.com/photos/3428498/pexels-photo-3428498.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "cat_short_id": "161116",
+        "date_created": "2022-06-03T11:32:21.296Z",
+        "qty": 23,
+        "user_id": "6299efbd79b22435397e0f61",
+        "short_id": "409232",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "6299fad1fc4be32cbe6b67fd"
+        },
+        "name": "Electric Guitar Squier Classic Vibe '70s",
+        "info": "With a wide head, as in the Stratocaster of the 70s, the Classic Vibe '70S Stratocaster creates a wonderful tone.\nFriendly, narrow and comfortable neck made of \"C\" shaped",
+        "price": 2300,
+        "img_url": "https://images.pexels.com/photos/2646825/pexels-photo-2646825.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "cat_short_id": "684882",
+        "date_created": "2022-06-03T11:32:21.296Z",
+        "qty": 5,
+        "user_id": "6299efbd79b22435397e0f61",
+        "short_id": "155877",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "6299f931fc4be32cbe6b67d7"
+        },
+        "name": "Electric Guitar - Fender Brad Paisley Road",
+        "info": "Fender Brad Paisley Road Worn Esquire - Black Sparkle\nThe collaboration between country music superstar Brad Paisley and guitar giant Fender has yielded a glorious",
+        "price": 6000,
+        "img_url": "https://images.pexels.com/photos/1545333/pexels-photo-1545333.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "cat_short_id": "684882",
+        "date_created": "2022-06-03T11:32:21.296Z",
+        "qty": 10,
+        "user_id": "6299efbd79b22435397e0f61",
+        "short_id": "241424",
+        "__v": 0
+    }
+]

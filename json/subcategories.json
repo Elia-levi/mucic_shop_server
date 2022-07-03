@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "6299f873fc4be32cbe6b67ca"
+  },
+  "name": "Electric guitars",
+  "url_name": "Electric_guitars",
+  "img_url": "https://images.pexels.com/photos/68710/pexels-photo-68710.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  "cat_short_id": "163720",
+  "short_id": "684882",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6299fbb5fc4be32cbe6b6827"
+  },
+  "name": "Classical guitars",
+  "url_name": "Classical_guitars",
+  "img_url": "https://images.pexels.com/photos/3423985/pexels-photo-3423985.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  "cat_short_id": "163720",
+  "short_id": "161116",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6299fe50fc4be32cbe6b6863"
+  },
+  "name": "Acoustic guitars",
+  "url_name": "Acoustic_guitars",
+  "img_url": "https://images.pexels.com/photos/3733338/pexels-photo-3733338.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  "cat_short_id": "163720",
+  "short_id": "247454",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629a008afc4be32cbe6b68bf"
+  },
+  "name": "Drums and drum sets",
+  "url_name": "Drums_and_drum_sets",
+  "img_url": "https://images.pexels.com/photos/995301/pexels-photo-995301.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  "cat_short_id": "384132",
+  "short_id": "531681",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629a02e6fc4be32cbe6b68f4"
+  },
+  "name": "electronic drums",
+  "url_name": "electronic_drums",
+  "img_url": "https://images.pexels.com/photos/258668/pexels-photo-258668.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  "cat_short_id": "384132",
+  "short_id": "649188",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629a0711fc4be32cbe6b6943"
+  },
+  "name": "Grand pianos",
+  "url_name": "Grand_pianos",
+  "img_url": "https://images.pexels.com/photos/5070057/pexels-photo-5070057.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  "cat_short_id": "812394",
+  "short_id": "981074",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629a0867fc4be32cbe6b695d"
+  },
+  "name": "Keyboard",
+  "url_name": "Keyboard",
+  "img_url": "https://images.pexels.com/photos/3061984/pexels-photo-3061984.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  "cat_short_id": "812394",
+  "short_id": "800542",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629a0fb1fc4be32cbe6b69e0"
+  },
+  "name": "Clarinets",
+  "url_name": "Clarinets",
+  "img_url": "https://images.pexels.com/photos/7970105/pexels-photo-7970105.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  "cat_short_id": "693904",
+  "short_id": "469434",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629a10ecfc4be32cbe6b6a12"
+  },
+  "name": "flutes",
+  "url_name": "flutes",
+  "img_url": "https://images.pexels.com/photos/8157685/pexels-photo-8157685.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  "cat_short_id": "693904",
+  "short_id": "86682",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629a138efc4be32cbe6b6a50"
+  },
+  "name": "Microphones",
+  "url_name": "Microphones",
+  "img_url": "https://images.pexels.com/photos/33970/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  "cat_short_id": "964569",
+  "short_id": "262701",
+  "__v": 0
+}]
