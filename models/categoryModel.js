@@ -14,7 +14,7 @@ exports.validateCategory = (_bodyReq) => {
   let joiSchema = Joi.object({
     name:Joi.string().min(2).max(150).required(),
     url_name:Joi.string().min(3).max(100).required(),
-    img_url:Joi.string().min(3).max(500).allow(null,"")
+    img_url:Joi.string().min(3).max(500).required()
   })
   return joiSchema.validate(_bodyReq);
 }

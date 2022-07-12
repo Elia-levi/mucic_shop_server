@@ -28,9 +28,8 @@ exports.validateProduct = (_bodyReq) => {
     info:Joi.string().min(3).max(500).required(),
     price:Joi.number().min(1).max(999999).required(),
     cat_short_id:Joi.string().min(2).max(99).required(),
-    img_url:Joi.string().min(3).max(500).allow(null,""),
-    condition:Joi.string().min(3).max(100).allow(null,""),
-    qty:Joi.number().min(1).max(9999).allow(null,""),
+    img_url:Joi.string().min(3).max(500).required(),
+    qty:Joi.number().min(1).max(9999).required(),
 
   })
   return joiSchema.validate(_bodyReq);

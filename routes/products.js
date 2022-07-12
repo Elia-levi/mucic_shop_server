@@ -10,7 +10,7 @@ router.get("/", async(req,res) => {
   let perPage = req.query.perPage ||10;
   let page = req.query.page >= 1 ? req.query.page - 1 : 0;
   let sort = req.query.sort || "_id";
-  let reverse = req.query.reverse == "yes" ? 1 : -1;
+  let reverse = req.query.reverse == "yes" ? -1 : 1;
   let cat = req.query.cat || null
   try{
     objFind = (cat) ? {cat_short_id:cat} : {}
