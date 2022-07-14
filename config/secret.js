@@ -4,5 +4,5 @@ exports.config ={
     tokenSecret:"music_shop_best_ever",
 
     AUTH_EMAIL:"elialeviz1@outlook.com",
-    AUTH_PASS:"2001e5637"
+    AUTH_PASS:"2001q5637"
 }

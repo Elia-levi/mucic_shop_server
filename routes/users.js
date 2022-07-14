@@ -10,12 +10,7 @@ const { UserModelVerification } = require("../models/userVerification ");
 const { auth, authAdmin } = require("../middlewares/auth");
 const { config } = require("../config/secret");
 
-
-// NEW
 const { PasswordResetModel } = require("../models/passwordResetModel");
-const { date } = require("joi");
-
-// ========================================
 
 
 let transporter = nodemailer.createTransport({
@@ -63,7 +58,8 @@ router.get("/checkUserToken", auth, async (req, res) => {
 // Displays only the information about a user and each user according to their token
 router.get("/myInfo", auth, async (req, res) => {
   try {
-    let data = await UserModel.findOne({ _id: req.tokenData._id }, { password: 0 })
+    let data = await UserModel.findOne({ _id: req.tokenData._id })
+    data.password="********"
     res.json(data);
   }
   catch (err) {
@@ -429,8 +425,8 @@ router.post("/resetPassword", (req, res) => {
 // Email sending Verification Email func
 const sendVerificationEmail = ({ _id, email }, res) => {
   // need to change
-  // const currentUrl = "http://localhost:3004/";
-  const currentUrl = "https://musicsshop.herokuapp.com/";
+  const currentUrl = "http://localhost:3004/";
+  // const currentUrl = "https://musicsshop.herokuapp.com/";
 
   const uniqueString = uuidv4() + _id;
 
