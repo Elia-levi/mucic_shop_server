@@ -26,6 +26,15 @@ let transporter = nodemailer.createTransport({
   }
 });
 
+transporter.verify((error,success)=>{
+  if(error){
+    console.log(error)
+  }else{
+    console.log("ready for massege")
+    console.log(success)
+  }
+})
+
 
 router.get("/", (req, res) => {
   res.json({ msg: "Users work" })
