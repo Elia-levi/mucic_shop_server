@@ -425,8 +425,8 @@ router.post("/resetPassword", (req, res) => {
 // Email sending Verification Email func
 const sendVerificationEmail = ({ _id, email }, res) => {
   // need to change
-  const currentUrl = "http://localhost:3004/";
-  // const currentUrl = "https://musicsshop.herokuapp.com/";
+  // const currentUrl = "http://localhost:3004/";
+  const currentUrl = "https://musicsshop.herokuapp.com/";
 
   const uniqueString = uuidv4() + _id;
 
